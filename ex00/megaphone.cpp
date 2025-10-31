@@ -6,12 +6,13 @@
 /*   By: dikhalil <dikhalil@student.42amman.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/21 14:51:43 by dikhalil          #+#    #+#             */
-/*   Updated: 2025/10/21 16:54:05 by dikhalil         ###   ########.fr       */
+/*   Updated: 2025/10/31 16:51:45 by dikhalil         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <cctype>
 #include <iostream>
+#include <string>
+
 
 int main(int argc, char **argv)
 {

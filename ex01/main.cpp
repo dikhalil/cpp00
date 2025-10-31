@@ -6,13 +6,13 @@
 /*   By: dikhalil <dikhalil@student.42amman.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/21 17:25:32 by dikhalil          #+#    #+#             */
-/*   Updated: 2025/10/22 18:44:03 by dikhalil         ###   ########.fr       */
+/*   Updated: 2025/10/31 17:09:44 by dikhalil         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "PhoneBook.hpp"
 
-int main()
+int main(void)
 {
     PhoneBook phonebook;
     std::string command;
